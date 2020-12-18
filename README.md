@@ -1,1 +1,0 @@
-# JadyTech-Blog-MVC-HW14
